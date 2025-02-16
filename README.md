@@ -4,15 +4,9 @@ Project Overview
 
 This project focuses on manual testing of a login page. The objective is to validate the functionality, security, and user experience of the login feature by executing various test cases.
 
-Test Scope
-
 Functional Testing
 
-UI Testing
-
 Security Testing
-
-Negative Testing
 
 Test Cases
 
